@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="please_enter_your_first_name">Please enter your first name</string>
+    <string name="end_quiz">End Quiz</string>
+    <string name="answer">Answer</string>
+    <string name="name">Name</string>
+    <string name="answer_in_number_form">Answer in number form</string>
+    <string name="what_is_the_distance_from_the_center_to_the_edge_of_a_circle_called">What is the distance from the center to the edge of a circle called?</string>
+    <string name="one_word_answer">One word answer</string>
+    <string name="question_3">Question 3</string>
+    <string name="which_of_the_following_is_true">Which of the following is true?</string>
+    <string name="what_is_tom_hanks_first_name_in_the_movie_forrest_gump">What is Tom Hanks first name in the movie Forrest Gump?</string>
+    <string name="rgb_stands_for_which_of_the_following_colors">RGB stands for which of the following colors?</string>
+</resources>
